@@ -1,0 +1,12 @@
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x86\Debug\ALPC_Poc.exe.config
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x86\Debug\ALPC_Poc.exe
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x86\Debug\ALPC_Poc.pdb
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x86\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x86\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x86\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x86\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x86\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x86\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x86\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\obj\x86\Debug\ALPC_Poc.exe
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\obj\x86\Debug\ALPC_Poc.pdb
