@@ -10,3 +10,8 @@ C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x64\Debug\it\Microsoft.Win32.TaskSchedule
 C:\temp2\temp\PSBypassCLM\ALPC_Poc\bin\x64\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
 C:\temp2\temp\PSBypassCLM\ALPC_Poc\obj\x64\Debug\ALPC_Poc.exe
 C:\temp2\temp\PSBypassCLM\ALPC_Poc\obj\x64\Debug\ALPC_Poc.pdb
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\ALPC_Poc\bin\x64\Debug\ALPC_Poc.exe.config
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\ALPC_Poc\bin\x64\Debug\ALPC_Poc.exe
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\ALPC_Poc\bin\x64\Debug\ALPC_Poc.pdb
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\ALPC_Poc\obj\x64\Debug\ALPC_Poc.exe
+C:\temp2\temp\PSBypassCLM\ALPC_Poc\ALPC_Poc\obj\x64\Debug\ALPC_Poc.pdb
